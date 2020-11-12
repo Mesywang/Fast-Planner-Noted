@@ -1,5 +1,8 @@
 # Fast-Planner-Noted
 Fast-Planner中文注释版，仅为个人学习的总结，若有错漏之处，敬请指正。
+
++ 本仓库代码注释于2020年2月，只包含Hybrid A* + 基于梯度的B-Spline优化方案，不包括作者后来提交的版本。
++ Paper: [Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight](https://ieeexplore.ieee.org/document/8758904), Boyu Zhou, Fei Gao, Luqi Wang, Chuhao Liu and Shaojie Shen, IEEE Robotics and Automation Letters (RA-L), 2019.
 ***
 # Fast-Planner
 
